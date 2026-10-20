@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "setup-py-upgrade",
+  "versions": [
+    {
+      "commit": "9d355848f5cb3d03e40f4550ce30c1c275a759be",
+      "tag": "",
+      "parsed_at": "2026-10-20T20:55:13.647845+00:00"
+    }
+  ]
+}
