@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "setup-py-upgrade",
+  "versions": [
+    {
+      "commit": "9d355848f5cb3d03e40f4550ce30c1c275a759be",
+      "parsed_at": "2026-10-20T20:52:47.575445+00:00",
+      "filetree": "filetree/9d355848f5cb3d03e40f4550ce30c1c275a759be.nq.gz",
+      "blobs": [
+        "blob/b1447c3015af9511f2dee402ca4b5ad62adf5dce.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/bd706c5ca961a27d138824eb8288f3df1719e275.nq.gz",
+        "blob/b838c1a09fe894207c94f5f55ce426380fcf96bf.nq.gz",
+        "blob/531b1e0824da0ee1afff0c7e89bd4421c8deb701.nq.gz",
+        "blob/94c1fe6138fade01e949920d13006e11cd2226d9.nq.gz",
+        "blob/5370c9485451439199ab7ab9ba30c95d9a046275.nq.gz",
+        "blob/e3c45e369338e3a2eb1ed011e48db4bdc4643094.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/5a4128de7f16972c216a66cf8d9b13716c1b6111.nq.gz",
+        "blob/0c5a37eb0adeb312718e533d0a4fbcbea6880056.nq.gz",
+        "blob/ca1d90ea180858ae143c0e62d920e350d3acc62d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
