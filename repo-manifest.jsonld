@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/setup-py-upgrade/commit/9d355848f5cb3d03e40f4550ce30c1c275a759be",
       "git:hexsha": "9d355848f5cb3d03e40f4550ce30c1c275a759be",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T20:55:13.647343+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/setup-py-upgrade/commit/0acae78773bdf395a74116fe5243c87acef2c84c",
